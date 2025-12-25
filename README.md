@@ -21,4 +21,4 @@ Both projects are interactive HTML reports demonstrating applied actuarial techn
 ## Links
 
 * [Insurance Loss Simulation](https://reyconcepcion.github.io/actuarial-projects/insurance-loss-simulation/InsuranceLossSimulation.html)
-* [FM Aggregate PV Simulation](https://
+* [FM Aggregate PV Simulation](https://reyconcepcion.github.io/actuarial-projects/fm-aggregate-pv-simulation/FMAggregatePVSimulation.html)
